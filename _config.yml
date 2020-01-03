@@ -1,1 +1,8 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+title: Bayesian.af
+author: C. Bayan Bruss
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
