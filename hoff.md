@@ -16,3 +16,9 @@ Later in Chapter 3 Hoff looks at this same procedure for comparing poisson distr
 <script src="https://gist.github.com/cbbruss/f8bf0cf1eee7012f4560119efd3cf8b3.js">
 	
 </script>
+
+Chapter 4 MC Samples
+
+<script src="https://gist.github.com/cbbruss/c1f32b0a470a73b9066df31d386414ba.js">
+	
+</script>
