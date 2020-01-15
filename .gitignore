@@ -4,3 +4,5 @@ _site/
 .jekyll-metadata
 bayesenv/
 notebooks/.ipynb_checkpoints/
+notebooks/.DS_Store
+.DS_Store
