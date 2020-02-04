@@ -9,4 +9,6 @@ This is meant to contain snippets of python code as a companion to the Peter D. 
 
 [Chapter 4: Monte Carlo Sampling](/hoff/hoff_4)
 
-[Chapter 4: Bayesian Inference on Unknown Parameters](/hoff/hoff_5)
+[Chapter 5: Bayesian Inference on Unknown Parameters](/hoff/hoff_5)
+
+[Chapter 6: Posterior Approximation with the Gibbs Sampler](/hoff/hoff_6)
