@@ -12,3 +12,5 @@ This is meant to contain snippets of python code as a companion to the Peter D. 
 [Chapter 5: Bayesian Inference on Unknown Parameters](/hoff/hoff_5)
 
 [Chapter 6: Posterior Approximation with the Gibbs Sampler](/hoff/hoff_6)
+
+[Chapter 7: The Multivariate Normal Model](/hoff/hoff_7)
